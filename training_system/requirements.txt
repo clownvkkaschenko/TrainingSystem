@@ -1,0 +1,7 @@
+asgiref==3.7.2
+Django==3.2.24
+djangorestframework==3.14.0
+isort==5.11.5
+pytz==2024.1
+sqlparse==0.4.4
+typing_extensions==4.7.1
